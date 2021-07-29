@@ -14,7 +14,7 @@ function validate() {
          }else{  var LNAME = document.getElementById("lname").value;}
     
          if( document.myForm.email.value == "" || validateEmail()==false) {
-             alert( "Please provide a vail Email!" );
+             alert( "Please provide a valid Email!" );
              document.myForm.email.focus() ;
              return false;
           }
