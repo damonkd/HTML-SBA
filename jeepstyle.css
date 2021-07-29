@@ -1,0 +1,13 @@
+label {
+    color: black;
+    padding: 8px;
+    font-family: Arial;
+    background-color:aquamarine;
+}
+
+.centerframe {
+    
+    display: flex;
+    justify-content: center;
+    
+  }
